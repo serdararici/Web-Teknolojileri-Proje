@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.container-fluid{
+    width: 100%;
+
+}
+#login{
+    height: 10;
+}
+.resimSlider
+{
+    height: 600px;
+}
+body
+{
+    padding-top: 50px;
+}
+
