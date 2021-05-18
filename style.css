@@ -41,6 +41,59 @@ body{
     border-radius: 10px;
     box-shadow: 0 2px 8px 2px rg
 }
+.hakkımda h2{
+    margin: 30px;
+    margin-left: 90px;
+}
+.hakkımda p{
+    font-size: 23px;
+    margin: 10px 60px;
+    text-align: center;
+}
+.hobilerim{
+    width: 30%;
+    height: auto;
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px 2px rgba(20, 23, 28, .15);
+}
+.rsm{
+    width: 100%;
+    height: 250px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    transition: opacity 0.8s;
+}
+.rsm:hover{
+    opacity: 0.6;
+}
+.hobilerim h5{
+    margin: 10px;
+    color: dimgray;
+}
+.hobilerim p{
+    font-size: 18px;
+    text-align: left;
+    margin: 10px;
+    color: dimgray;
+}
+.btnDevam:link{
+    display: block;
+    width: 150px;
+    height: 45px;
+    padding: 10px 20px;
+    background-color: #0071ce;
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    border-radius: 7px;
+}
+.btnDevam:hover{
+    opacity: 0.8;
+}
 /*Hakkımda bitiş*/
 
 /*sehrim başlangıç*/
@@ -229,7 +282,9 @@ iframe{
     font-size: 18px;
     margin-top: 6px;
 }
-
+#btnIletisim:hover{
+    opacity: 0.8;
+}
 /*iletisim bitiş*/
 
 /*Giriş sayfası başlangıç*/
@@ -323,6 +378,7 @@ iframe{
     width: 96px;
     height: 96px;
 }
+
 /*Sayfa başı ikonu bitiş*/
 
 /*footer başlangıç*/
