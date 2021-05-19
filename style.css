@@ -91,10 +91,82 @@ body{
     margin: 15px;
     border-radius: 7px;
 }
+.btnDevam:visited{
+    display: block;
+    width: 150px;
+    height: 45px;
+    padding: 10px 20px;
+    background-color: #4d7fa8;
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    border-radius: 7px;
+}
 .btnDevam:hover{
     opacity: 0.8;
 }
 /*Hakkımda bitiş*/
+
+/*özgeçmiş başlangıç*/
+#ozgecmish1{
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 60px;
+    line-height: 50px;
+    margin: 8px 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rg
+}
+#ozgecmish2{
+    color: rgb(15, 15, 71);
+    margin: 30px;
+    padding: 10px;
+    border-bottom: solid 5px rgb(41, 82, 116);
+    border-radius: 10px;
+}
+#nav{
+    text-align: center;
+    padding: 0px 80px;
+    padding-left: 130px;
+}
+#navitem{
+    border: solid;
+    width: 150px;
+    margin: 10px;
+    border-radius: 800px;
+    color: white;
+    background-color: rgb(41, 82, 116);
+}
+#navlink{
+    color: white;
+}
+.kisiseltable{
+    font-size: 20px;
+    width: 90%;
+    margin: 15px;
+    margin-left: 40px;
+}
+.kisiseltable tr{
+    height: 35px;
+
+}
+#bilgi{
+    color: rgb(18, 55, 85);
+    font-weight: bold;
+}
+#egitimbaslik{
+    font-weight: bold;
+    color: rgb(172, 72, 33);
+}
+#nitelikbaslik{
+    font-weight: bold;
+    color: rgb(172, 72, 33);
+}
+
+/*Özgeçmiş bitiş*/
 
 /*sehrim başlangıç*/
 .resimSlider
@@ -286,6 +358,21 @@ iframe{
     opacity: 0.8;
 }
 /*iletisim bitiş*/
+
+/*İlgi Alanlarım Başlangıç*/
+#ilgih1{
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 65px;
+    line-height: 50px;
+    margin: 8px 10px;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rg
+}
+/*İlgi Alanlarım Bitiş*/
 
 /*Giriş sayfası başlangıç*/
 #sayfaGiris{
