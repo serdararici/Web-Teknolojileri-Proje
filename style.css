@@ -297,6 +297,103 @@ iframe{
 }
 /*Mirasımız bitiş*/
 
+/*İlgi Alanlarım Başlangıç*/
+#ilgih1{
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 65px;
+    line-height: 50px;
+    margin: 8px 10px;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rg
+}
+.ilgi h2{
+    font-weight: bold;
+    margin: 25px;
+    margin-left: 90px;
+}
+.ilgi p{
+    font-size: 20px;
+    margin: 10px 30px;
+}
+.futbol{
+    width: 80%;
+    margin: auto;
+}
+#futbol2{
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+    width: 500px;
+    height: 300px;
+}
+#galatasaray{
+    border-radius: 10px;
+    float: right;
+    margin: 15px;
+    width: 350px;
+    height: 350px;
+}
+.filmdizi{
+    width: 80%;
+    margin: auto;
+}
+#film2{
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+    width: 500px;
+    height: 300px;
+}
+#forrestGump{
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+
+}
+.müzik{
+    width: 80%;
+    margin: auto;
+}
+#müzik2{
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+    width: 500px;
+    height: 300px;
+}
+.bilgisayaroyun{
+    width: 80%;
+    margin: auto;
+}
+.yazılım{
+    width: 80%;
+    margin: auto;
+}
+#yazılım2{
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+    width: 500px;
+    height: 300px;
+}
+.kitap{
+    width: 80%;
+    margin: auto;
+}
+#kitap2{
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+    width: 500px;
+    height: 300px;
+}
+
+/*İlgi Alanlarım Bitiş*/
+
 /*iletisim başlangıç*/
 #sayfa-iletisim{
     background-color:rgb(161, 181, 194) ;
@@ -358,21 +455,6 @@ iframe{
     opacity: 0.8;
 }
 /*iletisim bitiş*/
-
-/*İlgi Alanlarım Başlangıç*/
-#ilgih1{
-    text-align: center;
-    background-color:black;
-    color: white;
-    height: 65px;
-    line-height: 50px;
-    margin: 8px 10px;
-    padding: 7px;
-    margin-bottom: 10px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px 2px rg
-}
-/*İlgi Alanlarım Bitiş*/
 
 /*Giriş sayfası başlangıç*/
 #sayfaGiris{
